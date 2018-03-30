@@ -10,13 +10,11 @@ package runegen;
  * @author Pritchy
  */
 public class Character {
-  private Boolean[][] verts;
+//  private vertexTypes[][] verts;
   
   public Character(int rows) {
-    verts = new Boolean[rows][rows];
+//    verts = new Boolean[rows][rows];
     
     
   }
-  
-  
 }
